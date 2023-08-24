@@ -1,0 +1,24 @@
+SNAP:
+Discord
+drawio
+Bitwarden
+gitkraken
+code //vscode
+
+///note: all snap packages can also be downloaded with flathub
+//Discord
+//draw.io
+//gitkraken
+//Bitwarden
+//Visual Studio Code
+
+sudo snap install discord drawio bitwarden code
+
+FLATHUB:
+Obsidian
+
+ONLY FLATHUB:
+teams-for-linux
+GitHub Desktop
+Google Chrome
+

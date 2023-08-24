@@ -1,0 +1,35 @@
+UBUNTO CANONICAL SUPPORTED ESSENTIAL
+[X] vim
+[X] default-jdk
+[X] default-jre
+[X] gcc
+[X] git
+
+UBUNTO CANONICAL SUPPORTED
+[X] logisim
+
+FLATPAK PREP (UNIVERSE REPO)
+[X] flatpak
+[X] gnome-software
+[X] gnome-software-plugin-flatpak
+[X] flathub from https://dl.flathub.org/repo/flathub.flatpakrepo
+
+SNAP
+[X] discord //honestly no idea flatpak vs snap here
+[X] drawio //nor here
+[] code //its not a strict snap package, as such it cant be safely auto downloaded
+
+[?] Bitwarden
+[?] gitkraken
+[?] VLC
+
+FLATHUB ONLY
+[] teams_for_linux
+[] GitHub Desktop
+
+[?] Google Chrome
+[?] Stremio 
+
+
+
+ 

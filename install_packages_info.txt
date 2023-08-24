@@ -1,0 +1,15 @@
+PACKAGES PADRÃO UBUNTO
+java - jdk and jre
+c - gcc
+git
+//wget - permite dar get em .deb da internet
+
+analise circuitos binário -> logisim
+
+PACKAGES UNIVERSAL
+
+*flatpak setup*
+flatpak -> permite baixar softwares para qualquer sistema linux (possui mais softwares front-end que o snap)
+gnome-software-plugin-flatpak & gnome-software -> loja flatkpak
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo -> ainda mais opções de software
+
